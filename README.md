@@ -1,3 +1,4 @@
 # Asteroids
 
-This is an Asteroid game I developed while learning using the boot.dev course!
+This is an Asteroids game I developed while learning Python using the boot.dev course!
+
